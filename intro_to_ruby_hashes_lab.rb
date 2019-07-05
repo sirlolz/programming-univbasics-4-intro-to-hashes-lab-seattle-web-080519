@@ -33,5 +33,5 @@ else return hash[key] = 1
 end
   # if the provided key is not present in the hash, add it and #assign it to the value of 1
   # if the provided key is present, increment its value by 1
-  hash[key]
+  hash
 end
